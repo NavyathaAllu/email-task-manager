@@ -1,0 +1,40 @@
+{
+  "email_check_limit": 10,
+  "extract_unread_only": true,
+  "notion_properties": {
+    "title": "Task Name",
+    "deadline": "Deadline",
+    "status": "Status",
+    "priority": "Priority",
+    "description": "Description",
+    "email_source": "Email Source"
+  },
+  "task_keywords": [
+    "task",
+    "action item",
+    "todo",
+    "to-do",
+    "deadline",
+    "due",
+    "complete",
+    "finish",
+    "submit",
+    "review",
+    "prepare",
+    "send",
+    "update"
+  ],
+  "date_patterns": [
+    "today",
+    "tomorrow",
+    "next week",
+    "next month",
+    "by friday",
+    "by monday",
+    "end of day",
+    "eod",
+    "asap"
+  ],
+  "check_interval_hours": 1,
+  "max_retries": 3
+}
